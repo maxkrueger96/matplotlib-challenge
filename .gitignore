@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-.eps
+fit.eps
 
 # Distribution / packaging
 .Python
